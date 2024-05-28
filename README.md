@@ -1,4 +1,4 @@
-# Payment Service using Razorpay and Stripe Payment Gateway
+# Payment Service using Razorpay and Stripe
 
 ## Problem Statement
 
